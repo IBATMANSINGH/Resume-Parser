@@ -1,7 +1,5 @@
 # Resume Parser & Ranker
 
-![Resume Parser Banner](screenshots/banner.png)
-
 > A powerful tool to parse, analyze, and rank resumes against job descriptions using NLP.
 
 ## 📋 Overview
@@ -135,9 +133,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Ankit Singh
 
-Project Link: [https://github.com/yourusername/resume-parser](https://github.com/yourusername/resume-parser)
+Project Link: https://github.com/IBATMANSINGH/Resume-Parser
 
 ---
 
