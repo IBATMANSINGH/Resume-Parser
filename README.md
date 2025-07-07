@@ -127,11 +127,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### **2. For your `Resume-Parser` repository:**
-
-```markdown
----
-
 ### 🤖 AI-Assisted Development Process
 
 This project was built using a "prompt-first" approach, where I leveraged an LLM as a coding co-pilot to translate a concept into a functional application.
