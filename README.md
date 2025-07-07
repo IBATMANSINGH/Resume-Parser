@@ -127,13 +127,32 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+### **2. For your `Resume-Parser` repository:**
+
+```markdown
+---
+
+### 🤖 AI-Assisted Development Process
+
+This project was built using a "prompt-first" approach, where I leveraged an LLM as a coding co-pilot to translate a concept into a functional application.
+
+*   **The Core Prompt:** I began by architecting the project with a high-level prompt, such as:
+    > *"Create a Python application using Streamlit that allows a user to upload a resume file (like a PDF or DOCX). The application should then parse the text to extract key entities like name, contact information, skills, and work experience."*
+
+*   **Iteration and Refinement:** The AI generated the core file upload and text extraction code. I then used follow-up prompts to add the intelligence layer:
+    *   "Integrate the `spacy` library to perform Named Entity Recognition (NER) on the extracted text."
+    *   "Write a function to specifically identify and list all extracted email addresses and phone numbers using regular expressions."
+    *   "Display the parsed information neatly on the Streamlit page under clear headings like 'Personal Details' and 'Skills'."
+
+*   **My Role as the Developer:** My primary role was not just to code, but to act as the architect. This involved designing the prompts, critically evaluating and debugging the AI-generated code, structuring the information extraction logic, and testing the final application to ensure it accurately parsed different resume formats.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
+## 📬 Author
 
-Ankit Singh
+Made With Vibes & ❤️ By Ankit Singh
 
 Project Link: https://github.com/IBATMANSINGH/Resume-Parser
 
